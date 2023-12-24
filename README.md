@@ -4,4 +4,4 @@
 - react-select
 
 
-!()[TypeScript-Note-App.gif]
+![](ts_noteapp.gif)
